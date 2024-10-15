@@ -6,5 +6,9 @@
 
 # Berätta vem som vann striden
 
-print("Gojo who is an sorcerer is gonna fight against a powerful opponent")
-print("Throughout Heaven and Earth, he is alone the honored one")
+print("Goku is a warrior and hes fighting against Jiren")
+print("Jiren is ranked number 1 gladiator")
+print("Jiren is extremly powerful and everyone is cheering for him")
+print("can goku win against him thats the question")
+
+
