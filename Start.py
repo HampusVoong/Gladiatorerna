@@ -6,9 +6,17 @@
 
 # Berätta vem som vann striden
 
-print("Goku is a warrior and hes fighting against Jiren")
-print("Jiren is ranked number 1 gladiator")
-print("Jiren is extremly powerful and everyone is cheering for him")
-print("can goku win against him thats the question")
+print("Buddha who is an fighter takes challenge against Zerofuku a god")
+print("They are ready to fight against each other")
+print("While they are fighting something unexpected happened")
+print("Everyone at the arena is speechless and couldnt believe it")
+print("Zerofukus body had taken over by a devil named Hajun")
+print("You need to defeat Hajun to win")
+
+
+Choose = ["Attack", "Block", "Dodge"]
+
+
+
 
 
